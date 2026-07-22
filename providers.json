@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a22ba6d0-47c7-4d1e-a756-98b98958b554",
+    "name": "Local Llama.cpp",
+    "base_url": "http://localhost:5050",
+    "api_key": "<API_KEY_1>",
+    "is_enabled": true,
+    "cached_models": [
+      "Hermes-3-Llama-3.1-8B.Q4_K_M.gguf"
+    ]
+  },
+  {
+    "id": "d8be83da-95a1-4a57-b1d4-16c3a2afa2c7",
+    "name": "192.168.86.241:5050",
+    "base_url": "http://192.168.86.241:5050/v1",
+    "api_key": "<API_KEY_2>",
+    "is_enabled": true,
+    "cached_models": []
+  }
+]

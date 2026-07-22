@@ -1,0 +1,12 @@
+{
+  "name": "model-router",
+  "version": "1.0.0",
+  "description": "High-performance model proxy with API router",
+  "main": "src/proxy.py",
+  "scripts": {
+    "dev": "uvicorn proxy:app --host 0.0.0.0 --port 5000 --proxy-files src/frontend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED"
+}

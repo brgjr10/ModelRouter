@@ -1,0 +1,11 @@
+{
+  "global": {
+    "task_match": 0.35,
+    "reasoning": 0.25,
+    "context_fit": 0.1,
+    "tool_use": 0.15,
+    "latency": 0.1,
+    "cost": 0.15
+  },
+  "task_overrides": {}
+}
